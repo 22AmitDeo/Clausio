@@ -10,8 +10,8 @@ export default {
       },
       keyframes: {
         fadeIn: {
-             '0%': { opacity: 0 },
-      '      100%': { opacity: 1 },
+          '0%': { opacity: 0 },
+          '      100%': { opacity: 1 },
         },
         blob: {
           "0%, 100%": { transform: "translate(0px, 0px) scale(1)" },
