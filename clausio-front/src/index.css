@@ -1,6 +1,5 @@
 @import 'aos/dist/aos.css';
 /* Must be first */
-
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
